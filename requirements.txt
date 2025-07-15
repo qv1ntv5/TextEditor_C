@@ -1,0 +1,5 @@
+This code is mean to be run within a Unix-like system, you would need to run the following command:
+
+- sudo apt-get install gcc make 
+
+To install GNU Compiler Collection and the make program.
