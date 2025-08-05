@@ -1,5 +1,5 @@
 kilo: kilo.c 
-	$(CC) kilo.c -o kilo -Wall -Wextra -pedantic -std=c99
+	$(CC) kilo.c -o kilo -Wall -Wextra -pedantic -std=gnu99
 
 # 1. We are declaring that we want to build 'kilo' binary from 'kilo.c'.
 # 2. We are declaring the build command through the follwoing statements:

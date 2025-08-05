@@ -28,6 +28,7 @@ struct editorConfig {
   int screencols;
   struct termios orig_termios;
 };
+
 void die(const char *s) {
   perror(s);
   exit(1);
